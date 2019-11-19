@@ -1,3 +1,6 @@
 Rencana pengembangan diri bidang teknologi informasi
 a. mengikuti pelatihan perakitan komputer (Kompeten dan bersertifikat)
 b. mempelajari dasar-dasar web pemrograman (html, css, javascript)
+c. memperdalam web programming dengan mengikuti pelatihan online yang diselenggarakan oleh codepolitan.
+d. mengikuti program beasiswa progressive web application yang diselenggarakan oleh indosat ooredo yang bekerja sama dengan dicoding
+e. mengikuti kegiatan digitalent kominfo 
