@@ -1,0 +1,10 @@
+DAFTAR KOMPETENSI YANG HARUS DIKUASAI
+level JUNIOR
+
+Mengidentifikasi perangkat penyusun komputer
+memasang perlengkapan komputer
+melakukan instalasi operating system
+mengidentfifkasi spesifikasi perangkat komputer
+melakukan instalasi software aplikasi
+mengoperasikan komputer personal yang berdiri sendiri (pc stand alone)
+melakukan penanganan awal (trouble shooting) pada masalah pc
